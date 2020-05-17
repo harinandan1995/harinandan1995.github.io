@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harinandan Teja Katam"
+title                    : "About me! - Harinandan Teja Katam"
 title_separator          : "-"
 name                     : &name "Harinandan Teja Katam"
 description              : &description "Masters student at TUM"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "hari_katam"
   vine             :
   weibo            :
   xing             :
