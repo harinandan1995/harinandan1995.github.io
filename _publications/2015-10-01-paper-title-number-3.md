@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "BlenderProc"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /contribution/2019-10-25-blenderproc
+excerpt: 'The paper is about the open source project BlenderProc which can be used to generate very realistic looking synthetic data to training different deep learning models'
+date: 2019-10-25
+venue: ''
+paperurl: 'https://arxiv.org/pdf/1911.01911.pdf'
+citation: 'Maximilian Denninger et. al. (2019). &quot;BlenderProc.&quot;.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 

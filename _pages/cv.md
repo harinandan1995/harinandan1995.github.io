@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Technology in Compute Science and Engineering, IIT Bombay, Mumbai, India, 2016
+* Masters in Informatics (Machine Learning and Computer Vision), TUM, Munich, Germany, 2020
 
-Work experience
+Work Experience
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Projects
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,34 +31,26 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Contributions
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+
+Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Languages
+  * Python, Java, c++
+* Frameworks
+  * TensorFlow, Pytorch, Pytorch3D, Keras
+  * Django, OpenCV, Kafka, Spring
+* Spoken Languages
+  * English, German(A1), Hindi, Telugu(Mother tongue)
+* Machine Learning
+  * Regression, classification, Decision Trees, Random forests, Boosting, Bagging, SVM
+* Deep Learning
+  * CNN, FCNN, GAN, VAE, RNN, LSTM, Transformers, Image Segmentation, Graph Neural Networks, Graph Convolutions, Reinforcement learning
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
